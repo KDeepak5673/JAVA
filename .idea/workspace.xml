@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63cb7646-73e7-497c-9eea-3b9a17546515" name="Changes" comment="" />
+    <list default="true" id="63cb7646-73e7-497c-9eea-3b9a17546515" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeValue/ChangeValue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeValue/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Overloading/Overloading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Overloading/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questions/Questions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questions/src/ArmstrongNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questions/src/IsprimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questions/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shadowing/Shadowing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shadowing/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VarArgs/VarArgs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VarArgs/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap/swap.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +35,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2dE6b8c9OQ58KT9dhWlB6CiiDr9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,12 +53,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "19",
     "last_opened_file_path": "E:/JAVA",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="alphabetCaseCheck" />
@@ -58,9 +83,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
