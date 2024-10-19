@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fibonacci/Fibonacci.iml" filepath="$PROJECT_DIR$/Fibonacci/Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LargestNubmer/LargestNubmer.iml" filepath="$PROJECT_DIR$/LargestNubmer/LargestNubmer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Method/Method.iml" filepath="$PROJECT_DIR$/Method/Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReverseNumber/ReverseNumber.iml" filepath="$PROJECT_DIR$/ReverseNumber/ReverseNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Temp_conversion/Temp_conversion.iml" filepath="$PROJECT_DIR$/Temp_conversion/Temp_conversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alphabetCaseCheck/alphabetCaseCheck.iml" filepath="$PROJECT_DIR$/alphabetCaseCheck/alphabetCaseCheck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calander/calander.iml" filepath="$PROJECT_DIR$/calander/calander.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.deepakkumar/com.deepakkumar.iml" filepath="$PROJECT_DIR$/com.deepakkumar/com.deepakkumar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/countingOccurance/countingOccurance.iml" filepath="$PROJECT_DIR$/countingOccurance/countingOccurance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/if_else2/else_if/else_if.iml" filepath="$PROJECT_DIR$/if_else2/else_if/else_if.iml" />
+      <module fileurl="file://$PROJECT_DIR$/if_else2/greater than/greater than.iml" filepath="$PROJECT_DIR$/if_else2/greater than/greater than.iml" />
+      <module fileurl="file://$PROJECT_DIR$/if_else/if_else.iml" filepath="$PROJECT_DIR$/if_else/if_else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/if_else2/if_else 3/if_else 3.iml" filepath="$PROJECT_DIR$/if_else2/if_else 3/if_else 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/if_else2/if_else2.iml" filepath="$PROJECT_DIR$/if_else2/if_else2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/input/input.iml" filepath="$PROJECT_DIR$/input/input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nestedSwitch/nestedSwitch.iml" filepath="$PROJECT_DIR$/nestedSwitch/nestedSwitch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern/pattern.iml" filepath="$PROJECT_DIR$/pattern/pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/if_else2/switch_break/switch_break.iml" filepath="$PROJECT_DIR$/if_else2/switch_break/switch_break.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variables/variables.iml" filepath="$PROJECT_DIR$/variables/variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/whileLoop/whileLoop.iml" filepath="$PROJECT_DIR$/whileLoop/whileLoop.iml" />
+    </modules>
+  </component>
+</project>
